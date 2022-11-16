@@ -746,7 +746,7 @@
             </bpws:extensionActivity>
             <bpws:extensionActivity>
                 <tibex:activityExtension inputVariable="Log1-input"
-                    name="Log1"
+                    name="Logmaster"
                     tibex:xpdlId="995d9128-aebd-4c71-91ce-4a252371ec26" xmlns:tibex="http://www.tibco.com/bpel/2007/extensions">
                     <bpws:targets>
                         <bpws:target linkName="InvokeRESTAPIToLog"/>
